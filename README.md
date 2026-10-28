@@ -120,10 +120,10 @@ Decode-Internship-Project-2-EDA/
 │
 
 
-├── README.md
+├── [README.md](README.md)
 
 
-├── Decode_EDA_Project.xlsx
+├── [EDA.png](EDA.png)
 
 
-└── Dataset.xlsx
+└── [Decode_Intenship_Task2.xlsx](Decode_Intenship_Task2.xlsx)
